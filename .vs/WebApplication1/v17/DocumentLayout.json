@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\controllers\\vpcpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\vpcpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\models\\vpcpdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\vpcpdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\models\\vpcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\vpcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\services\\vpcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\vpcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|e:\\chu_private\\chu_api\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC14361-14E0-4302-93A4-7E3B600C12BD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T07:07:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:03:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:03:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vpcpController.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Controllers\\vpcpController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\vpcpController.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Controllers\\vpcpController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\vpcpController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:55:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VPCPService.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Services\\VPCPService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\VPCPService.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Services\\VPCPService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\VPCPService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:45:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:41:56.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VpcpDatabaseSettings.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Models\\VpcpDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\VpcpDatabaseSettings.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Models\\VpcpDatabaseSettings.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\VpcpDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:39:31.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vpcp.cs",
+              "DocumentMoniker": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Models\\vpcp.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\vpcp.cs",
+              "ToolTip": "E:\\CHU_PRIVATE\\CHU_API\\WebApplication1\\WebApplication1\\Models\\vpcp.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\vpcp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:27:12.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
